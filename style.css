@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+	font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+	font-size:15px;
+	line-height:1.5;
+	font-weight:600;
+	background-color:#3AD2EB;
+}
+
+img{
+	width:350px;
+	height:auto;
+	border:5px solid black;
+}
+
+.pic{
+	width:350px;
+	height:auto;
+	border:5px solid black;
+}
+
+.title{
+	font-style:italic;
+}
